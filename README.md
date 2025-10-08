@@ -1,19 +1,31 @@
-# EcoRadar
+# 🌿 EcoRadar
 
-A new Flutter project created with FlutLab - https://flutlab.io
+**EcoRadar** é um aplicativo desenvolvido em **Flutter** como parte de uma prática acadêmica da faculdade.  
+O objetivo do projeto é promover a conscientização ambiental por meio de recursos tecnológicos acessíveis e intuitivos, permitindo que usuários se conectem a iniciativas ecológicas, pontos de coleta e ações sustentáveis.
 
-## Getting Started
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Funcionalidades
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+- Exibição de informações sobre sustentabilidade e ecologia  
+- Interface moderna desenvolvida com Flutter  
+- Estrutura modular e fácil de manter  
+- Compatível com Android e iOS  
+- Projeto desenvolvido como prática de módulo universitário
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
 
-## Getting Started: FlutLab - Flutter Online IDE
+## 🛠️ Tecnologias Utilizadas
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- **Flutter** (SDK 3.x)
+- **Dart**
+- **Material Design**
+- **Git / GitHub**
+
+---
+
+## 🚀 Como Executar o Projeto
+
+1. **Clone o repositório**
+   ```bash
+   git clone https://github.com/seu-usuario/ecoradar.git
